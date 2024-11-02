@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "compatibility": [2],
+  "description": "",
+  "icon": "",
+  "id": "subtitles_filter",
+  "name": "subtitles_filter",
+  "priorities": {
+    "on_worker_process": 0
+  },
+  "tags": "",
+  "version": "0.0.1"
+}
