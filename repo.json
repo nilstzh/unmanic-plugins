@@ -1,0 +1,26 @@
+{
+    "repo": {
+        "id": "repository.nilstzh",
+        "name": "unmatic-plugins",
+        "icon": "",
+        "repo_data_directory": "https://raw.githubusercontent.com/nilstzh/unmanic-plugins/repo/",
+        "repo_data_url": "https://raw.githubusercontent.com/nilstzh/unmanic-plugins/repo/repo.json"
+    },
+    "plugins": [
+        {
+            "author": "",
+            "compatibility": [
+                2
+            ],
+            "description": "",
+            "icon": "",
+            "id": "subtitles_filter",
+            "name": "subtitles_filter",
+            "priorities": {
+                "on_worker_process": 0
+            },
+            "tags": "",
+            "version": "0.0.1"
+        }
+    ]
+}
